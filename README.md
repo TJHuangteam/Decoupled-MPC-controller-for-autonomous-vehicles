@@ -12,6 +12,7 @@ pip install -r requirements.txt
 2. Run the training procedure
 ```
 python main.py
+```
 
 ## Contributors
 This project is supported by Tongji university.
