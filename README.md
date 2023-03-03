@@ -9,7 +9,7 @@ The driving style of obstacle can be revised in the obstacles_info.py
 pip install -r requirements.txt
 ```
 
-2. Run the training procedure
+2. Run the main procedure
 ```
 python main.py
 ```
