@@ -12,3 +12,19 @@ pip install -r requirements.txt
 2. Run the training procedure
 ```
 python main.py
+
+## Contributors
+This project is supported by Tongji university.
+
+Lab leader:
+Professor HongChen
+Professor Yanjun Huang. 
+
+Project members:
+Kang Yuan
+Shuo Yang
+Liwen Wang
+Yuxiao Gu
+
+
+
