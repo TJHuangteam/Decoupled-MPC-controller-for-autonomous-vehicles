@@ -14,6 +14,9 @@ pip install -r requirements.txt
 python main.py
 ```
 
+## Simulation Result
+![image](https://github.com/TJHuangteam/Decoupled-MPC-controller-for-autonomous-vehicles/blob/main/simulation_result_record.gif)
+
 ## Contributors
 This project is supported by Tongji university.
 
