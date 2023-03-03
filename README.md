@@ -17,15 +17,15 @@ python main.py
 ## Contributors
 This project is supported by Tongji university.
 
-Lab leader:
---Professor HongChen
---Professor Yanjun Huang. 
+### Lab leader:
+- Professor HongChen
+- Professor Yanjun Huang. 
 
-Project members:
---Kang Yuan
---Shuo Yang
---Liwen Wang
---Yuxiao Gu
+### Project members:
+- Kang Yuan
+- Shuo Yang
+- Liwen Wang
+- Yuxiao Gu
 
 
 
