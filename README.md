@@ -18,7 +18,6 @@ python main.py
 This project is supported by Tongji university.
 
 ### Lab leader:
-- Professor HongChen
 - Professor Yanjun Huang. 
 
 ### Project members:
